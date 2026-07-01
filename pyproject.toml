@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "git-undigest"
-version = "0.2.0"
+version = "0.2.1"
 description = "Reconstruct a full repository from a GitIngest-style digest file."
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
 authors = [
-    { name = "Vedant Parmane", email = "16848858+anomalyco@users.noreply.github.com" },
+    { name = "Vedant Parmane", email = "vedantparmane@gmail.com" },
 ]
 maintainers = [
     { name = "git-undigest contributors" },

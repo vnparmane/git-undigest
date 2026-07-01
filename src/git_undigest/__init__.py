@@ -42,7 +42,7 @@ from .parser import iter_files, parse_digest, parse_digest_text, parse_stream
 from .validator import validate_summary
 from .writer import reconstruct_files, reconstruct_files_stream
 
-__version__ = "0.2.0"
+__version__ = "0.2.1"
 
 __all__ = [
     "reconstruct",
