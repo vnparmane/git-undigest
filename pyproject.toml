@@ -10,7 +10,7 @@ readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.10"
 authors = [
-    { name = "Vedant Chainani", email = "16848858+anomalyco@users.noreply.github.com" },
+    { name = "Vedant Parmane", email = "16848858+anomalyco@users.noreply.github.com" },
 ]
 maintainers = [
     { name = "git-undigest contributors" },
